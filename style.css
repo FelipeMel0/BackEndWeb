@@ -19,6 +19,7 @@ input{
     border-color: gray;
     color: rgb(54, 54, 54);
     box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.247);
+    padding: 15px;
 }
 button{
     border-radius: 20px;
